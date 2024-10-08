@@ -1,0 +1,3 @@
+In this directory, the names of the folders within textures 
+will be the same names as those in objects, to identify which 
+object this texture belongs to, ok?

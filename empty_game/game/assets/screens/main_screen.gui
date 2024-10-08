@@ -1,0 +1,8 @@
+Column {
+     Button(
+        width = 20,
+        height = 20,
+        id = "button_shoot",
+        text = "Shoot"
+     )
+}
